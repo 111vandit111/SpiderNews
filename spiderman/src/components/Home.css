@@ -1,0 +1,19 @@
+.home .post {
+    background-image: url('../5-2-space-png-pic.png');
+    background-color: rgba(0, 0, 0, 0.5)
+}
+
+body {
+    background-image: url('../photo-1569982175971-d92b01cf8694.jpg');
+    background-attachment: fixed;
+}
+
+.home .card-content p {
+    color: aliceblue;
+    text-align: center;
+}
+
+.home .post:hover .title {
+    font-size: 6.4vh;
+    background-color: transparent;
+}

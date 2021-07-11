@@ -1,0 +1,16 @@
+.forPost {
+    background-image: none;
+    margin: 10px;
+    background-color: tomato;
+}
+
+.forPost .card-title {
+    font-weight: bold;
+    color: aqua;
+    text-transform: uppercase;
+}
+
+.forPost .card-content {
+    color: wheat;
+    font-size: 25px;
+}
